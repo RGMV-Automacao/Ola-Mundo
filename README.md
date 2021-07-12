@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro Respositorio Versionado GITHUB
+# Olá Mundo!
+ Primeiro respositorio versionado GITHUB.
+
+Rrepsositorio de testes para automação.
